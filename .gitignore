@@ -1,0 +1,58 @@
+# Bytecode gerado
+*.class
+
+# Logs
+*.log
+
+# Pacotes compilados
+*.jar
+*.war
+*.ear
+
+# Arquivos de metadados de IDEs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Arquivos de cache
+*.DS_Store
+*.tmp
+*.swp
+*~.nib
+*.bak
+
+# Arquivos de configuração do sistema
+Thumbs.db
+.DS_Store
+
+# Arquivos de dependências baixados
+lib/
+
+out/
